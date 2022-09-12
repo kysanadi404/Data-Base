@@ -8,6 +8,7 @@ https://docs.google.com/document/d/113MA9FaERohgNlGro81pCWCHSiNxszKoZ5Lr3FACYu0/
 Процесс создания бд (07.09)
 https://docs.google.com/document/d/1-Vzd3566jBSS7DdXfEEfsCHhNT4LyIQT38QjQgeg-vA/edit
 
+Этапы развития информационных систем и баз данных ( 05.09 )
 
 https://docs.google.com/document/d/1--5YrM8tsuhepGKaKbxNhDlu68Sv3QydqPr_iSyxTvI/edit
 
