@@ -20,3 +20,6 @@ https://docs.google.com/document/d/12EZe1jraJXb6A_G1xuW5PtHYogsyVunDGZ_we9j45fM/
 
 20.09.22
 https://docs.google.com/document/d/14JhK1J_UaszdFKW418jo7izD4tz4e3ZTLaa_WUad6sw/edit
+
+Проектирование бд
+https://docs.google.com/document/d/14QgA_U4xK-gKREYcKT6uZnCmFtThpjeqLZ5kR8cSPOc/edit
