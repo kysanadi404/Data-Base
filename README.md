@@ -28,3 +28,5 @@ https://docs.google.com/document/d/14QgA_U4xK-gKREYcKT6uZnCmFtThpjeqLZ5kR8cSPOc/
 DISTINCT, ORDER BY(ASC, DESC), LIMIT
 
 https://docs.google.com/document/d/15YQzEca4V5EoOg6Ld0DLG8pvJ-3qnJQInVmyMQzIcB0/edit
+Команды SQL 27.09
+https://docs.google.com/document/d/16O-Qa1UohdzwlSiCBPb0-Ql1KmT54fo-qfZRm3gfZkE/edit
