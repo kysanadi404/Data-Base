@@ -23,3 +23,8 @@ https://docs.google.com/document/d/14JhK1J_UaszdFKW418jo7izD4tz4e3ZTLaa_WUad6sw/
 
 Проектирование бд
 https://docs.google.com/document/d/14QgA_U4xK-gKREYcKT6uZnCmFtThpjeqLZ5kR8cSPOc/edit
+
+Команды SQL
+DISTINCT, ORDER BY(ASC, DESC), LIMIT
+
+https://docs.google.com/document/d/15YQzEca4V5EoOg6Ld0DLG8pvJ-3qnJQInVmyMQzIcB0/edit
