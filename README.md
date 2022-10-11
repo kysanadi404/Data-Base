@@ -33,3 +33,6 @@ https://docs.google.com/document/d/16O-Qa1UohdzwlSiCBPb0-Ql1KmT54fo-qfZRm3gfZkE/
 
 Представления, процедуры, функции, триггеры
 https://docs.google.com/document/d/10DRQ3S-KP8kRAwzqXXERicnGpaM5YBYtKQvsWZ2Rsx4/edit
+ 
+Связь многие ко многим 
+https://docs.google.com/document/d/18WrAMEaxxsKxfkNZBUDGJF5hEzTAPfxhc_kS6Hrsyjs/edit
