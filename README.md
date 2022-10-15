@@ -36,3 +36,5 @@ https://docs.google.com/document/d/10DRQ3S-KP8kRAwzqXXERicnGpaM5YBYtKQvsWZ2Rsx4/
  
 Связь многие ко многим 
 https://docs.google.com/document/d/18WrAMEaxxsKxfkNZBUDGJF5hEzTAPfxhc_kS6Hrsyjs/edit
+14.10.22
+https://docs.google.com/document/d/19cqlc5DpiHSER7R5QpU3BmdscBDdmYCxgloanTQ4O-s/edit
