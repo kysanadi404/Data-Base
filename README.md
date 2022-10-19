@@ -39,7 +39,6 @@ https://docs.google.com/document/d/18WrAMEaxxsKxfkNZBUDGJF5hEzTAPfxhc_kS6Hrsyjs/
 14.10.22
 https://docs.google.com/document/d/19cqlc5DpiHSER7R5QpU3BmdscBDdmYCxgloanTQ4O-s/edit
 
-Объединение таблиц 17.10
-https://docs.google.com/document/d/19dMeGWrPBPI3djsYtYwOWElXCzYCXJ45H37cgS3026I/Ответы на вопросы по SQL на собеседовании.
+
 Ответы на вопросы по SQL на собеседовании. 18.10
 https://docs.google.com/document/d/19hWEugFUgUe6v6LvfiWNYzqybmexrW2f83vUEPQ_OvE/edit
