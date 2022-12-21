@@ -42,3 +42,6 @@ https://docs.google.com/document/d/19cqlc5DpiHSER7R5QpU3BmdscBDdmYCxgloanTQ4O-s/
 
 Ответы на вопросы по SQL на собеседовании. 18.10
 https://docs.google.com/document/d/19hWEugFUgUe6v6LvfiWNYzqybmexrW2f83vUEPQ_OvE/edit
+
+Решение СЛАУ
+https://docs.google.com/spreadsheets/d/1h8DD4PnOL2_uLWNdxBgX2p36yyFviFD3kC4lescS2F8/edit?usp=sharing
