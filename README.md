@@ -45,3 +45,7 @@ https://docs.google.com/document/d/19hWEugFUgUe6v6LvfiWNYzqybmexrW2f83vUEPQ_OvE/
 
 Решение линейных уравнений
 https://docs.google.com/spreadsheets/d/1h8DD4PnOL2_uLWNdxBgX2p36yyFviFD3kC4lescS2F8/edit?usp=sharing
+
+
+демо 
+https://drive.google.com/drive/folders/1ms3h7Of8vUbOCb6Y3KwsnVVCs6KmpeB8?usp=sharing
